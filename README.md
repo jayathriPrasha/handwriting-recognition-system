@@ -1,5 +1,8 @@
 # handwriting-recognition-system
-Overcoming handwriting recognition challenges in an online environment is a multifaceted problem. Improve 75% accuracy of handwriting recognition for grammar check 
+
+Overcoming elementary level students handwriting recognition challenges in an online environment is a multifaceted problem.
+Improve 75% accuracy of handwriting recognition.
+In additional garmmer check also can do.
 
 *How  this implement 
 Creating a system diagram for this script involves illustrating the main components and their interactions. Here's a simplified system diagram for the image segmentation script:
@@ -120,3 +123,4 @@ Return Results:
 
 
 #how it work vedio 
+https://youtu.be/1iKIoY13a14  link
