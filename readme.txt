@@ -1,0 +1,1 @@
+pip install git+https://github.com/MCFreddie777/language-check.git
